@@ -27,7 +27,7 @@ include("functions.php");
     <div class="container-fluid navcont">
 
 
-      <a class="navbar-brand" href="./index.php">
+      <a class="navbar-brand" href="./index.html">
         <img src="./images1/RBI.jpeg" height="60" width="200 ">
       </a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#Navbar">
@@ -38,7 +38,7 @@ include("functions.php");
 
         <ul class="navbar-nav mr-auto">
           <li class="nav-item ">
-            <a class="nav-link" href="./index.php"><span class="fa fa-home fa-lg"></span>Home</a>
+            <a class="nav-link" href="./index.html"><span class="fa fa-home fa-lg"></span>Home</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="./aboutus.html"><span class="fa fa-info fa-lg"></span>About</a>
